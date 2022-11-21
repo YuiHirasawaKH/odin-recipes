@@ -1,0 +1,22 @@
+body{
+    background-color: #0c0a3e;
+}
+
+ul,h1,a,p,h2,li{
+    text-align: center;
+    color: #a5e68a;
+}
+h1{
+    margin: auto;
+    background-color: #7785ac;
+    width: 50%;
+    border-radius: 50px;
+}
+img{
+    width: 100%;
+}
+div{
+    margin: auto;
+    margin-top: 10px;
+    width: 50%;
+}
